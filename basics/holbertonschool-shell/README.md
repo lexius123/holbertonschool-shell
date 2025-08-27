@@ -1,1 +1,0 @@
-# Holbertonschool Shell Basics
